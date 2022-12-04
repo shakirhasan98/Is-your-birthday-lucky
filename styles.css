@@ -1,0 +1,59 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color:aliceblue;
+  color: mediumblue;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+#container{
+  margin: auto;
+  width:50%;
+}
+
+h1{
+  text-align:center;
+}
+
+input,
+label {
+  display:block;
+  width:100%;
+}
+
+input{
+  margin-bottom:1rem;
+  margin-top:0.5rem;
+}
+
+#check-number{
+  display:block;
+  margin:auto;
+  color:mediumblue;
+  background:transparent;
+  cursor:pointer;
+}
+/* 
+.footer{
+    background-color: purple;
+    padding: 2rem;
+    text-align: center;
+    border-top-right-radius: 1rem;
+    color: aliceblue;
+    margin-top: 1rem;
+}
+
+.footer .link{
+    color:aliceblue;
+}
+
+.inline-bullet-lists{
+    display: inline;
+    padding: 0rem 0.5rem;
+    text-decoration: none;
+} */
